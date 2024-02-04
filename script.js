@@ -7,7 +7,7 @@ const audio = document.getElementById("myAudio");
 
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "Yaaaaay, I love you so much!";
-  gif.src = "https://media.giphy.com/media/FTGah7Mx3ss04PcasF/giphy.gif";
+  gif.src = "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 
   audio.play();
 });
